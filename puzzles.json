@@ -1,4 +1,6 @@
-{
-  "name":"My Unicorn",
-  "path":"001"
-}
+[
+  {
+    "name":"My Unicorn",
+    "path":"001"
+  }
+]
