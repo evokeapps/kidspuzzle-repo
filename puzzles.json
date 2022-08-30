@@ -2,5 +2,9 @@
   {
     "name":"My Unicorn",
     "path":"001"
+  },
+  {
+    "name":"Rabbit",
+    "path":"002"
   }
 ]
