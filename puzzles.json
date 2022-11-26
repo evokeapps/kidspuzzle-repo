@@ -1,12 +1,17 @@
 [
   {
-      "title":"රථ වාහන (Vehicles)",
-      "items":[
-          {
-              "name_en":"Car",
-              "name_si":"කාරය",
-              "id":"001"
-          }
-      ]
+    "title": "රථ වාහන (Vehicles)",
+    "items": [
+      {
+        "name_en": "Car",
+        "name_si": "කාරය",
+        "id": "001"
+      },
+      {
+        "name_en": "Airplane",
+        "name_si": "ගුවන් යානය",
+        "id": "006"
+      }
+    ]
   }
 ]
