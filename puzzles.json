@@ -16,6 +16,11 @@
         "name_en": "Ambulance",
         "name_si": "ගිලන් රථය",
         "id": "007"
+      },
+      {
+        "name_en": "Bicycle",
+        "name_si": "පාපැදිය",
+        "id": "008"
       }
     ]
   }
