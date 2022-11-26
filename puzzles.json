@@ -11,6 +11,11 @@
         "name_en": "Airplane",
         "name_si": "ගුවන් යානය",
         "id": "006"
+      },
+      {
+        "name_en": "Ambulance",
+        "name_si": "ගිලන් රථය",
+        "id": "007"
       }
     ]
   }
