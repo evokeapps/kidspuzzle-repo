@@ -21,6 +21,16 @@
         "name_en": "Bicycle",
         "name_si": "පාපැදිය",
         "id": "008"
+      },
+      {
+        "name_en": "Boat",
+        "name_si": "බෝට්ටුව",
+        "id": "010"
+      },
+      {
+        "name_en": "Bus",
+        "name_si": "බසය",
+        "id": "009"
       }
     ]
   }
